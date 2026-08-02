@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Janitor CRIMSONIZED
 // @namespace    janitor-crimsonized
-// @version      1.1.1
+// @version      1.1.2
 // @description  Restructured crimson frontend for janitorai.com: shelf based landing page, full width chat, NSFW filter, learned tag preferences and a proper control panel.
 // @author       4G0NYY
 // @match        https://janitorai.com/*
