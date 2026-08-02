@@ -9,6 +9,8 @@
 // @run-at       document-start
 // @grant        GM_getValue
 // @grant        GM_setValue
+// @downloadURL  https://raw.githubusercontent.com/4G0NYY/jai-crimsonized/main/janitor-crimsonized.user.js
+// @updateURL    https://raw.githubusercontent.com/4G0NYY/jai-crimsonized/main/janitor-crimsonized.user.js
 // @noframes
 // ==/UserScript==
 
