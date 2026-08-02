@@ -3,7 +3,7 @@
 // @namespace    janitor-crimsonized
 // @version      1.1.1
 // @description  Restructured crimson frontend for janitorai.com: shelf based landing page, full width chat, NSFW filter, learned tag preferences and a proper control panel.
-// @author       https://github.com/4G0NYY
+// @author       4G0NYY
 // @match        https://janitorai.com/*
 // @match        https://*.janitorai.com/*
 // @run-at       document-start
