@@ -32,7 +32,7 @@
 (function () {
   'use strict';
 
-  var VERSION = '1.1.1';
+  var VERSION = '1.1.2';
   var K_SETTINGS = 'jc.settings.v1';
   var K_TASTE = 'jc.taste.v1';
   var K_SEEN = 'jc.seen.v1';
